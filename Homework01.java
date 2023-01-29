@@ -2,9 +2,9 @@
 
 public class Homework01 {
 	
-	//编写一个main方法
+	//缂栧啓涓�涓猰ain鏂规硶
 	public static void main(String[] args) {
-        //编写hello,world程序
+		//缂栧啓hello,world绋嬪簭
 		System.out.println("hello,world");
 	}
 }
