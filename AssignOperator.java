@@ -1,6 +1,6 @@
 //演示赋值运算符的使用
 
-public class AssignOerator {
+public class AssignOperator {
 	
 	//编写一个main方法
 	public static void main(String[] args) {
